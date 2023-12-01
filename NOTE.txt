@@ -1,0 +1,14 @@
+Data options:
+
+errorType
+- misspelled
+- miscapitalized
+- double
+
+correctionType
+- suggestion
+- custom
+- ignore
+- ignoreall
+- save
+- delete

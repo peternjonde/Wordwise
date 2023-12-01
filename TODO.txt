@@ -1,0 +1,5 @@
+CORRECTOR
+- Make option to ignore text correction in html tags
+- Make text scrollable within screen 3
+- Modify UI styling
+- Float suggestions list to top of suggestions box
